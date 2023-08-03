@@ -1,5 +1,5 @@
 # Portfolio
 | **Название проекта** | **Описание** | **Стек** |
 |---|---|---|
-|ABtest| | |
-|business metrics|   |   |
+|ABtest|  |pandas, datetime, matplotlib, scipy, numpy, math, plotly|
+| business metrics|   |   |
